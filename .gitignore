@@ -113,3 +113,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+powerpoint_quality_boxplot.png
+powerpoint_quality_boxplot.eps
+powerpoint_quality_boxplot.svg
