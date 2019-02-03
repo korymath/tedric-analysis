@@ -116,3 +116,5 @@ dmypy.json
 powerpoint_quality_boxplot.png
 powerpoint_quality_boxplot.eps
 powerpoint_quality_boxplot.svg
+*.png
+*.eps
